@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="https://x.com/SiqiiiTim">
-    <img src="https://img.shields.io/badge/with%20a%20logo-grey?style=for-the-badge&logo=x" alt="Twitter Badge"/>
+    <img src="https://img.shields.io/badge/Twitter-grey?style=for-the-badge&logo=x" alt="X Badge"/>
   </a>
 </div>
 
