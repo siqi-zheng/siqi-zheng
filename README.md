@@ -18,6 +18,8 @@
 </h1>
 
 ## 🔭 What I'm Currently Working On
+- :seedling: Exploring Technical Content Writing.
+- :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 - 🌟 Authoring and maintaining an R package that automatically grades students' programming assignments on a web platform for over 1500 users/students.
 - 📊 Working full-time as a Business Analyst.
 - 🌐 Managing a survey web application in a university with around 3000 users.
@@ -26,13 +28,21 @@
 <!--
 This section will be dynamically updated by GitHub Actions.
 -->
-- [R Package for Automatic Grading](https://github.com/siqi-zheng/r-package-automatic-grading)
-- [Survey Web Application](https://github.com/siqi-zheng/survey-web-application)
-- [Other Projects](https://github.com/siqi-zheng?tab=repositories)
+- [R Package for Automatic Grading](https://github.com/siqi-zheng/RMarkUs)
 
-## 📊 GitHub Statistics
-[![Siqi's GitHub stats](https://github-readme-stats.vercel.app/api?username=siqi-zheng&show_icons=true&theme=radical)](https://github.com/siqi-zheng)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siqi-zheng&layout=compact&theme=radical)](https://github.com/siqi-zheng)
+## :hammer_and_wrench: Languages and Tools :
+<div>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" title="scikitlearn" alt="scikitlearn" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/r/r-original.svg" title="R" alt="R" width="40" height="40"/>&nbsp;
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" title="anaconda" alt="anaconda" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" title="MySQL"  alt="MySQL" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
+  <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>
+</div>
 
 <!--
 **siqi-zheng/siqi-zheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
