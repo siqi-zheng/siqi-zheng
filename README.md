@@ -17,23 +17,32 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-## 🔭 What I'm Currently Working On
+---
 
+### 🔭 What I'm Currently Working On
 - 🌟 Authoring and maintaining an R package that automatically grades students' programming assignments for over 1500 users/students at the University of Toronto.
 - 📊 Working full-time as an admin for REDCap, a survey web application with 3k+ users and 8k+ projects.
 - <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" title="jupyter" alt="jupyter" width="20" height="20"/>&nbsp;JupyterHub operational team at the University of Toronto.
 - :seedling: Exploring Technical Content Writing.
 - :zap: In my free time, I solve problems on GeeksforGeeks and read tech articles.
 
-## 🚀 Recently Updated Projects
+<div align="center">
+  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
+</div>
+
+---
+
+### 🚀 Recently Updated Projects
 <!--
 This section will be dynamically updated by GitHub Actions.
 -->
 - [R Package for Automatic Grading](https://github.com/siqi-zheng/RMarkUs)
 
-## :hammer_and_wrench: Languages and Tools :
+---
 
-### Machine Learning & Deep Learning
+### :hammer_and_wrench: Languages and Tools :
+
+#### Machine Learning & Deep Learning
 <div>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original-wordmark.svg" title="jupyter" alt="jupyter" width="40" height="40"/>&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
@@ -45,7 +54,7 @@ This section will be dynamically updated by GitHub Actions.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/anaconda/anaconda-original.svg" title="anaconda" alt="anaconda" width="40" height="40"/>&nbsp;
 </div>  
 
-### Software Development
+#### Software Development
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg" title="CSS3" alt="CSS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/>&nbsp;
@@ -54,6 +63,13 @@ This section will be dynamically updated by GitHub Actions.
   <img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-plain-wordmark.svg" title="AWS" alt="AWS" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>
 </div>
+
+---
+
+### :fire: My Stats :
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=siqi-zheng&theme=tokyonight&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siqi-zheng&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **siqi-zheng/siqi-zheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
