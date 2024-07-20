@@ -67,9 +67,9 @@ This section will be dynamically updated by GitHub Actions.
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=siqi-zheng&theme=tokyonight&hide_border=true&mode=weekly)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=siqi-zheng&hide_border=true&mode=weekly#gh-light-mode-only)](https://github.com/siqi-zheng#gh-light-mode-only)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siqi-zheng&hide_border=true&layout=compact#gh-light-mode-only)](https://github.com/siqi-zheng#gh-light-mode-only)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=siqi-zheng&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **siqi-zheng/siqi-zheng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
