@@ -38,6 +38,7 @@ This section will be dynamically updated by GitHub Actions.
 -->
 - [R Package for Automatic Grading](https://github.com/siqi-zheng/RMarkUs)
 
+- [Latest Personal Website](https://siqi-zheng.github.io)
 ---
 
 ### :hammer_and_wrench: Languages and Tools :
